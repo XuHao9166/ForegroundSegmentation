@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/10/28 13:43:50。
+     1>项目“D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\exsic15\exsic15.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(97): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(129): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(130): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(132): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(133): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(239): warning C4244: “=”: 从“int64”转换到“unsigned long”，可能丢失数据
+     1>main.cpp(243): warning C4244: “=”: 从“int64”转换到“unsigned long”，可能丢失数据
+     1>main.cpp(244): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\x64\Debug\exsic15.exe" /INCREMENTAL /NOLOGO opencv_aruco340d.lib opencv_bgsegm340d.lib opencv_bioinspired340d.lib opencv_calib3d340d.lib opencv_ccalib340d.lib opencv_core340d.lib opencv_cudaarithm340d.lib opencv_cudabgsegm340d.lib opencv_cudacodec340d.lib opencv_cudafeatures2d340d.lib opencv_cudafilters340d.lib opencv_cudaimgproc340d.lib opencv_cudalegacy340d.lib opencv_cudaobjdetect340d.lib opencv_cudaoptflow340d.lib opencv_cudastereo340d.lib opencv_cudawarping340d.lib opencv_cudev340d.lib opencv_datasets340d.lib opencv_dnn340d.lib opencv_dpm340d.lib opencv_features2d340d.lib opencv_flann340d.lib opencv_fuzzy340d.lib opencv_highgui340d.lib opencv_imgcodecs340d.lib opencv_imgproc340d.lib opencv_img_hash340d.lib opencv_line_descriptor340d.lib opencv_ml340d.lib opencv_objdetect340d.lib opencv_optflow340d.lib opencv_phase_unwrapping340d.lib opencv_photo340d.lib opencv_plot340d.lib opencv_reg340d.lib opencv_rgbd340d.lib opencv_saliency340d.lib opencv_shape340d.lib opencv_stereo340d.lib opencv_stitching340d.lib opencv_structured_light340d.lib opencv_superres340d.lib opencv_surface_matching340d.lib opencv_text340d.lib opencv_tracking340d.lib opencv_ts340d.lib opencv_video340d.lib opencv_videoio340d.lib opencv_videostab340d.lib opencv_viz340d.lib opencv_xfeatures2d340d.lib opencv_ximgproc340d.lib opencv_xobjdetect340d.lib opencv_xphoto340d.lib cublas.lib cuda.lib cublas_device.lib cudnn.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\x64\Debug\exsic15.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\x64\Debug\exsic15.lib" /MACHINE:X64 x64\Debug\main.obj
+         exsic15.vcxproj -> D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\x64\Debug\exsic15.exe
+     1>已完成生成项目“D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\exsic15\exsic15.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.36

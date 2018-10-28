@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|x64|D:\opencv实践_GPU\exsic15  基于稠密光流的前景分割、孟德尔颜色热力图表示\|
